@@ -1,0 +1,19 @@
+{
+  "name": "SG-Bus-Locator",
+  "version": "1.0.0",
+  "description": "A RESTful API that returns all current bus locations and bearings of a bus service",
+  "author": "Prem Adithya Suresh <hello@adithya.pw>",
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "~6.0.0",
+    "got": "~9.2.2",
+    "kcors": "~2.2.2",
+    "koa": "~2.5.3",
+    "lru-cache": "~4.1.3"
+  }
+}
