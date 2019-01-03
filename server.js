@@ -1,9 +1,11 @@
+let _und = require("underscore");
 const Koa = require('koa');
 const cors = require('kcors');
 const got = require('got');
 const cache = require('lru-cache')({
   maxAge: 1000 * 15 // 15 seconds
 });
+
 setInterval(() => cache.prune(), 1000 * 60); // Prune every minute
 
 const app = new Koa();
@@ -112,7 +114,7 @@ app.use(async (ctx) => {
         timeout: 1000 * 10, // 10 seconds
         retry: 3,
         headers: {
-          AccountKey: process.env.API_KEY,
+          AccountKey: process.env.API_KEY
         },
       });
 
@@ -136,7 +138,7 @@ app.use(async (ctx) => {
       body.Services.map((service) => {
         const { NextBus } = service;
 
-        if (service.ServiceNo === busNo && NextBus.Latitude !== "0") {
+        if (service.ServiceNo === busNo && NextBus.Latitude !== "0" && _und.findWhere(locations, {lat: NextBus.Latitude}) === undefined) {
           let startLat, startLong, endLat, endLong;
 
           if (i > 0) {
@@ -145,9 +147,8 @@ app.use(async (ctx) => {
             endLat = Math.radians(busStopCodes[i].lat);
             endLong = Math.radians(busStopCodes[i].lon);
 
-            let bearing;
-            let dLong = endLong - startLong;
-            let dPhi = Math.log(Math.tan(endLat / 2.0 + Math.PI / 4.0) / Math.tan(startLat / 2.0 + Math.PI / 4.0));
+            let bearing, dLong = endLong - startLong, dPhi = Math.log(Math.tan(endLat / 2.0 + Math.PI / 4.0) / Math.tan(startLat / 2.0 + Math.PI / 4.0));
+
             if (Math.abs(dLong) > Math.PI) {
               if (dLong > 0.0)
                 dLong = -(2.0 * Math.PI - dLong);
