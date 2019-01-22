@@ -14,7 +14,7 @@ app.use(cors());
 app.use(async (ctx) => {
     const {busNo} = ctx.request.query;
 
-    if (!busNo || !["179", "179a", "199"].includes(busNo)) {
+    if (!busNo || !["179", "179A", "199"].includes(busNo)) {
         ctx.body = "Usage: '/?busNo=179'\n\nProject is available at https://github.com/adithyaxx/SG-Bus-Locator";
         return;
     }
