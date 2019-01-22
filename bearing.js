@@ -55,6 +55,6 @@ module.exports = (location, stopRoute, index)=>{
     }
     bearing = Math.floor(bearing);
     //for debug
-    console.log(JSON.stringify([nextPointOnLine, location])+',')
+    //console.log(JSON.stringify([nextPointOnLine, location])+',')
     return bearing;
 }
