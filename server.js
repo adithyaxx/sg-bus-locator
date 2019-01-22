@@ -5,6 +5,13 @@ const got = require('got');
 const cache = require('lru-cache')({
     maxAge: 1000 * 15 // 15 seconds
 });
+//Routes info, in memory map.
+const parser = require('./parser');
+const bearingParser = require('./bearing');
+let routeData = _und.reduce(['179', '179A', '199'], (prev, bus)=>{
+    prev[bus] = parser(bus);
+    return prev;
+}, {});
 
 setInterval(() => cache.prune(), 1000 * 60); // Prune every minute
 
@@ -140,9 +147,11 @@ app.use(async (ctx) => {
                     const {NextBus} = service;
 
                     if (service.ServiceNo === busNo && NextBus.Latitude !== "0" && _und.findWhere(locations, {lat: NextBus.Latitude}) === undefined) {
-                        let startLat, startLong, endLat, endLong;
-
+                        
+                        //let startLat, startLong, endLat, endLong;
+                        
                         if (i > 0) {
+                            /*
                             startLat = Math.radians(busStopCodes[i - 1].lat);
                             startLong = Math.radians(busStopCodes[i - 1].lon);
                             endLat = Math.radians(busStopCodes[i].lat);
@@ -159,7 +168,9 @@ app.use(async (ctx) => {
                             }
 
                             bearing = (Math.degrees(Math.atan2(dLong, dPhi)) + 360.0) % 360.0;
-
+                            */
+                            let bearing = bearingParser({lat: NextBus.Latitude, lng: NextBus.Longitude}, routeData[busNo], i);
+                            
                             locations.push({lat: NextBus.Latitude, lng: NextBus.Longitude, bearing: bearing});
                         } else
                             locations.push({lat: NextBus.Latitude, lng: NextBus.Longitude, bearing: 0});
