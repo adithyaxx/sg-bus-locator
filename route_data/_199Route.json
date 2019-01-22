@@ -1,0 +1,1612 @@
+{
+  "geocoded_waypoints" : [
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJCU_5yZQP2jERaEOaNwArlcI",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJQXZQseoP2jERiPBcG8gNzAk",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ-y6SEb8P2jERteE5UdY21ic",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJZz4ScrkP2jERIkLaioXXTLg",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJBxXSPbAP2jERuJrVpy6jaeM",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJh2fShK8P2jERaI8G6MypWZA",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJcdvcUK8P2jERFXrunDQc2qs",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJHb4SoKgP2jERRYGoz2IYSr8",
+      "types" : [ "premise" ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJm6EX26cP2jEREPXLgDe_710",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJkX6z0gkP2jERglgi0SChywk",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJdZ-lwQkP2jERowLZLoGFeNI",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ7To32QsP2jERWxZvUMRbK8g",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJXXxSgAwP2jERCHoyz9-HmaU",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    }
+  ],
+  "routes" : [
+    {
+      "bounds" : {
+        "northeast" : {
+          "lat" : 1.3571484,
+          "lng" : 103.7068471
+        },
+        "southwest" : {
+          "lat" : 1.3426397,
+          "lng" : 103.6762823
+        }
+      },
+      "copyrights" : "Map data ©2019 Google",
+      "legs" : [
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 385
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 59
+          },
+          "end_address" : "Blk 683A, Singapore",
+          "end_location" : {
+            "lat" : 1.3452642,
+            "lng" : 103.7062028
+          },
+          "start_address" : "Boon Lay Int, Singapore",
+          "start_location" : {
+            "lat" : 1.3426397,
+            "lng" : 103.7054557
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 214
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 35
+              },
+              "end_location" : {
+                "lat" : 1.3439135,
+                "lng" : 103.7068395
+              },
+              "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eJurong West Central 1\u003c/b\u003e",
+              "polyline" : {
+                "points" : "_tdGo{}wRm@kBeAXlB~GuGb@UeBIcAE]EOGKGGMGe@Oq@Oo@Oq@Oi@M"
+              },
+              "start_location" : {
+                "lat" : 1.3426397,
+                "lng" : 103.7054557
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 385
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 59
+          },
+          "end_address" : "Blk 680C, Singapore",
+          "end_location" : {
+            "lat" : 1.3452642,
+            "lng" : 103.7062028
+          },
+          "start_address" : "Blk 683A, Singapore",
+          "start_location" : {
+            "lat" : 1.3426397,
+            "lng" : 103.7054557
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 214
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 35
+              },
+              "end_location" : {
+                "lat" : 1.3439135,
+                "lng" : 103.7068395
+              },
+              "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eJurong West Central 1\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ofeGc~}wR]IQEICKIOOIKOSMQS]mAoB]e@"
+              },
+              "start_location" : {
+                "lat" : 1.3426397,
+                "lng" : 103.7054557
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 171
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 24
+              },
+              "end_location" : {
+                "lat" : 1.3452642,
+                "lng" : 103.7062028
+              },
+              "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJln Boon Lay\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-left",
+              "polyline" : {
+                "points" : "mneGwf~wRW@MAOAO@YFmDvB"
+              },
+              "start_location" : {
+                "lat" : 1.3439135,
+                "lng" : 103.7068395
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 496
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 81
+          },
+          "end_address" : "Opp Blk 271 CP, Singapore",
+          "end_location" : {
+            "lat" : 1.3491127,
+            "lng" : 103.7039472
+          },
+          "start_address" : "Blk 680C, Singapore",
+          "start_location" : {
+            "lat" : 1.3452642,
+            "lng" : 103.7062028
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 229
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 42
+              },
+              "end_location" : {
+                "lat" : 1.347008,
+                "lng" : 103.7051012
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eJln Boon Lay\u003c/b\u003e toward \u003cb\u003eJurong West Ave 2\u003c/b\u003e",
+              "polyline" : {
+                "points" : "{veGwb~wRsAv@sCtA_@RuAx@"
+              },
+              "start_location" : {
+                "lat" : 1.3452642,
+                "lng" : 103.7062028
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 267
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 39
+              },
+              "end_location" : {
+                "lat" : 1.3491127,
+                "lng" : 103.7039472
+              },
+              "html_instructions" : "Continue onto \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "yafG{{}wRULiAj@_@Pw@Z}BbAmBx@"
+              },
+              "start_location" : {
+                "lat" : 1.347008,
+                "lng" : 103.7051012
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 507
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 66
+          },
+          "end_address" : "Opp Westwood Sec Sch, Singapore",
+          "end_location" : {
+            "lat" : 1.3526147,
+            "lng" : 103.7011767
+          },
+          "start_address" : "Opp Blk 271 CP, Singapore",
+          "start_location" : {
+            "lat" : 1.3491127,
+            "lng" : 103.7039472
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 507
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 66
+              },
+              "end_location" : {
+                "lat" : 1.3526147,
+                "lng" : 103.7011767
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "}nfGut}wRWL}@\\oBz@[Lo@Tc@NQHi@X[Ps@f@]VONQNc@f@]d@[b@A@Ub@cA~A"
+              },
+              "start_location" : {
+                "lat" : 1.3491127,
+                "lng" : 103.7039472
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.7 km",
+            "value" : 720
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 89
+          },
+          "end_address" : "Bef Nanyang Ave, Singapore",
+          "end_location" : {
+            "lat" : 1.3563267,
+            "lng" : 103.6958766
+          },
+          "start_address" : "Opp Westwood Sec Sch, Singapore",
+          "start_location" : {
+            "lat" : 1.3526147,
+            "lng" : 103.7011767
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.7 km",
+                "value" : 720
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 89
+              },
+              "end_location" : {
+                "lat" : 1.3563267,
+                "lng" : 103.6958766
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "ydgGkc}wRi@x@sAxBwA|BcBpCeA`BORq@nAc@h@y@vAk@`Ao@`AqArBW\\A@"
+              },
+              "start_location" : {
+                "lat" : 1.3526147,
+                "lng" : 103.7011767
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 543
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 53
+          },
+          "end_address" : "Bef Lor Danau, Singapore",
+          "end_location" : {
+            "lat" : 1.3561396,
+            "lng" : 103.6915815
+          },
+          "start_address" : "Bef Nanyang Ave, Singapore",
+          "start_location" : {
+            "lat" : 1.3563267,
+            "lng" : 103.6958766
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 112
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 11
+              },
+              "end_location" : {
+                "lat" : 1.3570206,
+                "lng" : 103.6951505
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e",
+              "polyline" : {
+                "points" : "a|gGgb|wR]d@m@r@CBWVa@Z"
+              },
+              "start_location" : {
+                "lat" : 1.3563267,
+                "lng" : 103.6958766
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 431
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 42
+              },
+              "end_location" : {
+                "lat" : 1.3561396,
+                "lng" : 103.6915815
+              },
+              "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNanyang Ave\u003c/b\u003e",
+              "maneuver" : "turn-left",
+              "polyline" : {
+                "points" : "k`hGu}{wRO^ADAHAFCXjA~Bd@|@d@v@N`@Tl@Nr@Fd@@P@h@?ZAf@A^E^EV"
+              },
+              "start_location" : {
+                "lat" : 1.3570206,
+                "lng" : 103.6951505
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 315
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 32
+          },
+          "end_address" : "PUB Sub-Stn, Singapore",
+          "end_location" : {
+            "lat" : 1.3559356,
+            "lng" : 103.688996
+          },
+          "start_address" : "Bef Lor Danau, Singapore",
+          "start_location" : {
+            "lat" : 1.3561396,
+            "lng" : 103.6915815
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 315
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 32
+              },
+              "end_location" : {
+                "lat" : 1.3559356,
+                "lng" : 103.688996
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e toward \u003cb\u003eLor Danau\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "{zgGkg{wR?@K`@K\\Y~@Uj@I`@?JAL?P?N@H@H@PH`@DNFNHPb@t@n@fA"
+              },
+              "start_location" : {
+                "lat" : 1.3561396,
+                "lng" : 103.6915815
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 281
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 40
+          },
+          "end_address" : "50 Nanyang Cres, Singapore 637598",
+          "end_location" : {
+            "lat" : 1.3558528,
+            "lng" : 103.6871141
+          },
+          "start_address" : "PUB Sub-Stn, Singapore",
+          "start_location" : {
+            "lat" : 1.3559356,
+            "lng" : 103.688996
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 135
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 18
+              },
+              "end_location" : {
+                "lat" : 1.355248,
+                "lng" : 103.687999
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e",
+              "polyline" : {
+                "points" : "sygGgwzwRDFd@x@z@tA`@n@"
+              },
+              "start_location" : {
+                "lat" : 1.3559356,
+                "lng" : 103.688996
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 146
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 22
+              },
+              "end_location" : {
+                "lat" : 1.3558528,
+                "lng" : 103.6871141
+              },
+              "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eNanyang Cres\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "iugG_qzwRD?B?B?D@@B?B?B?DCDC@C@C?CAA?CAYRQN[^QZQ`@GT"
+              },
+              "start_location" : {
+                "lat" : 1.355248,
+                "lng" : 103.687999
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 331
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 53
+          },
+          "end_address" : "Nanyang Crescent Hall, Singapore",
+          "end_location" : {
+            "lat" : 1.3550555,
+            "lng" : 103.6843953
+          },
+          "start_address" : "50 Nanyang Cres, Singapore 637598",
+          "start_location" : {
+            "lat" : 1.3558528,
+            "lng" : 103.6871141
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 331
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 53
+              },
+              "end_location" : {
+                "lat" : 1.3550555,
+                "lng" : 103.6843953
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "aygGmkzwREJK^E\\ATAn@@T@NBZB\\FTHVDNHNfAxBbAdB"
+              },
+              "start_location" : {
+                "lat" : 1.3558528,
+                "lng" : 103.6871141
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 336
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 54
+          },
+          "end_address" : "Hall 15, Singapore",
+          "end_location" : {
+            "lat" : 1.3533109,
+            "lng" : 103.6819262
+          },
+          "start_address" : "Nanyang Crescent Hall, Singapore",
+          "start_location" : {
+            "lat" : 1.3550555,
+            "lng" : 103.6843953
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 336
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 54
+              },
+              "end_location" : {
+                "lat" : 1.3533109,
+                "lng" : 103.6819262
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "ctgGozywRb@t@fBzCt@nAtApBl@z@V\\"
+              },
+              "start_location" : {
+                "lat" : 1.3550555,
+                "lng" : 103.6843953
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.2 km",
+            "value" : 218
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 35
+          },
+          "end_address" : "32 Nanyang Cres, Hall 12, Singapore 637658",
+          "end_location" : {
+            "lat" : 1.3519593,
+            "lng" : 103.6805192
+          },
+          "start_address" : "Hall 15, Singapore",
+          "start_location" : {
+            "lat" : 1.3533109,
+            "lng" : 103.6819262
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 218
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 35
+              },
+              "end_location" : {
+                "lat" : 1.3519593,
+                "lng" : 103.6805192
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "eigGakywRX`@JPp@z@VZHHHFRPvAnA\\X"
+              },
+              "start_location" : {
+                "lat" : 1.3533109,
+                "lng" : 103.6819262
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 264
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 46
+          },
+          "end_address" : "CP 7, Singapore",
+          "end_location" : {
+            "lat" : 1.350776,
+            "lng" : 103.6786411
+          },
+          "start_address" : "32 Nanyang Cres, Hall 12, Singapore 637658",
+          "start_location" : {
+            "lat" : 1.3519593,
+            "lng" : 103.6805192
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 264
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 46
+              },
+              "end_location" : {
+                "lat" : 1.350776,
+                "lng" : 103.6786411
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e toward \u003cb\u003eNanyang Walk\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "w`gGgbywR@@d@`@\\XtBhBNNHLDFFNDZ@P@J@V?RAP?RAL"
+              },
+              "start_location" : {
+                "lat" : 1.3519593,
+                "lng" : 103.6805192
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 457
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 74
+          },
+          "end_address" : "NIE Lib, Singapore",
+          "end_location" : {
+            "lat" : 1.3484294,
+            "lng" : 103.6765571
+          },
+          "start_address" : "CP 7, Singapore",
+          "start_location" : {
+            "lat" : 1.350776,
+            "lng" : 103.6786411
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 457
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 74
+              },
+              "end_location" : {
+                "lat" : 1.3484294,
+                "lng" : 103.6765571
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "kyfGovxwR?@?RETCTAHAX?N?L?P@L@V@RBPDL@FHPHRLTJNJNJLHJNLRPPLPJTJ\\NFBHBXDPBL@L?\\?VCPETGVIDCPIZK@A"
+              },
+              "start_location" : {
+                "lat" : 1.350776,
+                "lng" : 103.6786411
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 534
+          },
+          "duration" : {
+            "text" : "2 mins",
+            "value" : 96
+          },
+          "end_address" : "Blk 2, Singapore",
+          "end_location" : {
+            "lat" : 1.3479255,
+            "lng" : 103.6803518
+          },
+          "start_address" : "NIE Lib, Singapore",
+          "start_location" : {
+            "lat" : 1.3484294,
+            "lng" : 103.6765571
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 291
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 52
+              },
+              "end_location" : {
+                "lat" : 1.3471234,
+                "lng" : 103.6783657
+              },
+              "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eNanyang Cres\u003c/b\u003e toward \u003cb\u003eNanyang Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ujfGoixwRRETGXEn@Mf@ORILILKJGFIHIFIDMFMDODQ@M@O?U?MAWA[AU?OCW"
+              },
+              "start_location" : {
+                "lat" : 1.3484294,
+                "lng" : 103.6765571
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 243
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 44
+              },
+              "end_location" : {
+                "lat" : 1.3479255,
+                "lng" : 103.6803518
+              },
+              "html_instructions" : "Continue onto \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "obfGytxwRGiACi@CMAKCKCIGOKYYe@IQMWk@gAUe@"
+              },
+              "start_location" : {
+                "lat" : 1.3471234,
+                "lng" : 103.6783657
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 490
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 74
+          },
+          "end_address" : "Blk 41, Singapore",
+          "end_location" : {
+            "lat" : 1.3500185,
+            "lng" : 103.6841546
+          },
+          "start_address" : "Blk 2, Singapore",
+          "start_location" : {
+            "lat" : 1.3479255,
+            "lng" : 103.6803518
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 490
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 74
+              },
+              "end_location" : {
+                "lat" : 1.3500185,
+                "lng" : 103.6841546
+              },
+              "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "qgfGeaywRWi@a@{@KSUe@ISk@mAa@c@A?A?AAA?A?A??AA?A??AA??AA??A?AA??A?A?A?A?A?A?A@??A?AQu@eAyBcAwBEIQ]Sa@EICMCKAOAM"
+              },
+              "start_location" : {
+                "lat" : 1.3479255,
+                "lng" : 103.6803518
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "1 m",
+            "value" : 0
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 0
+          },
+          "end_address" : "Blk 41, Singapore",
+          "end_location" : {
+            "lat" : 1.3500185,
+            "lng" : 103.6841546
+          },
+          "start_address" : "Blk 41, Singapore",
+          "start_location" : {
+            "lat" : 1.3500185,
+            "lng" : 103.6841546
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "1 m",
+                "value" : 0
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 0
+              },
+              "end_location" : {
+                "lat" : 1.3500185,
+                "lng" : 103.6841546
+              },
+              "html_instructions" : "Head on \u003cb\u003eNanyang Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "stfG}xywR"
+              },
+              "start_location" : {
+                "lat" : 1.3500185,
+                "lng" : 103.6841546
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 354
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 51
+          },
+          "end_address" : "Hall 8, Singapore",
+          "end_location" : {
+            "lat" : 1.3514987,
+            "lng" : 103.6857767
+          },
+          "start_address" : "Blk 41, Singapore",
+          "start_location" : {
+            "lat" : 1.3500185,
+            "lng" : 103.6841546
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 97
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 13
+              },
+              "end_location" : {
+                "lat" : 1.3496636,
+                "lng" : 103.684924
+              },
+              "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "stfG}xywR?C?M@MBQDSJUFKRYRW"
+              },
+              "start_location" : {
+                "lat" : 1.3500185,
+                "lng" : 103.6841546
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 257
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 38
+              },
+              "end_location" : {
+                "lat" : 1.3514987,
+                "lng" : 103.6857767
+              },
+              "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eNanyang Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "krfGw}ywREGAC?C@E?EBC@CBAg@g@CCMMQMUOUKi@W]G[AQ?S?m@@cAA"
+              },
+              "start_location" : {
+                "lat" : 1.3496636,
+                "lng" : 103.684924
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 339
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 44
+          },
+          "end_address" : "Hall 11, Singapore",
+          "end_location" : {
+            "lat" : 1.3542572,
+            "lng" : 103.686948
+          },
+          "start_address" : "Hall 8, Singapore",
+          "start_location" : {
+            "lat" : 1.3514987,
+            "lng" : 103.6857767
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 339
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 44
+              },
+              "end_location" : {
+                "lat" : 1.3542572,
+                "lng" : 103.686948
+              },
+              "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "{}fGcczwReA?G?_@CWEWESGICEAeGkC{A}@CA"
+              },
+              "start_location" : {
+                "lat" : 1.3514987,
+                "lng" : 103.6857767
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.6 km",
+            "value" : 628
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 81
+          },
+          "end_address" : "Aft Lor Danau, Singapore",
+          "end_location" : {
+            "lat" : 1.3562318,
+            "lng" : 103.6916929
+          },
+          "start_address" : "Hall 11, Singapore",
+          "start_location" : {
+            "lat" : 1.3542572,
+            "lng" : 103.686948
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 144
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 24
+              },
+              "end_location" : {
+                "lat" : 1.3551789,
+                "lng" : 103.6878555
+              },
+              "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e",
+              "polyline" : {
+                "points" : "cogGmjzwR]UWS][YYUWs@}@"
+              },
+              "start_location" : {
+                "lat" : 1.3542572,
+                "lng" : 103.686948
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 484
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 57
+              },
+              "end_location" : {
+                "lat" : 1.3562318,
+                "lng" : 103.6916929
+              },
+              "html_instructions" : "At the roundabout, continue straight to stay on \u003cb\u003eNanyang Ave\u003c/b\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "{tgGcpzwRC@C?CAA?CAAG?E@C?C@A@Aa@o@{@uAe@y@u@oAc@u@IQGOEOIa@AQAIAI?O?Q@M?KHa@Fm@@QFWDOH[Je@FY"
+              },
+              "start_location" : {
+                "lat" : 1.3551789,
+                "lng" : 103.6878555
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 260
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 25
+          },
+          "end_address" : "Bef Jln Bahar, Singapore",
+          "end_location" : {
+            "lat" : 1.3567805,
+            "lng" : 103.693876
+          },
+          "start_address" : "Aft Lor Danau, Singapore",
+          "start_location" : {
+            "lat" : 1.3562318,
+            "lng" : 103.6916929
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 260
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 25
+              },
+              "end_location" : {
+                "lat" : 1.3567805,
+                "lng" : 103.693876
+              },
+              "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e toward \u003cb\u003eCleantech View\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "m{gGah{wR@EB_@@SB]?e@?QAOGeAY{@Qc@o@mASa@"
+              },
+              "start_location" : {
+                "lat" : 1.3562318,
+                "lng" : 103.6916929
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 307
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 40
+          },
+          "end_address" : "Bef Nanyang Ave, Singapore",
+          "end_location" : {
+            "lat" : 1.3563775,
+            "lng" : 103.6960082
+          },
+          "start_address" : "Bef Jln Bahar, Singapore",
+          "start_location" : {
+            "lat" : 1.3567805,
+            "lng" : 103.693876
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 130
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 20
+              },
+              "end_location" : {
+                "lat" : 1.357341,
+                "lng" : 103.6948998
+              },
+              "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eNanyang Ave\u003c/b\u003e toward \u003cb\u003eJln Bahar\u003c/b\u003e",
+              "polyline" : {
+                "points" : "{~gGwu{wRGKUi@ISu@wAQi@"
+              },
+              "start_location" : {
+                "lat" : 1.3567805,
+                "lng" : 103.693876
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 177
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 20
+              },
+              "end_location" : {
+                "lat" : 1.3563775,
+                "lng" : 103.6960082
+              },
+              "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-right",
+              "polyline" : {
+                "points" : "kbhGc|{wROSJIj@a@XUd@a@^]^e@Va@"
+              },
+              "start_location" : {
+                "lat" : 1.357341,
+                "lng" : 103.6948998
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.6 km",
+            "value" : 643
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 82
+          },
+          "end_address" : "Westwood Sec Sch, Singapore",
+          "end_location" : {
+            "lat" : 1.3530444,
+            "lng" : 103.7007356
+          },
+          "start_address" : "Bef Nanyang Ave, Singapore",
+          "start_location" : {
+            "lat" : 1.3563775,
+            "lng" : 103.6960082
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.6 km",
+                "value" : 643
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 82
+              },
+              "end_location" : {
+                "lat" : 1.3530444,
+                "lng" : 103.7007356
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "k|gGac|wRNUjAqBh@u@t@oA|@wA\\m@|@uAHMbBsC|@{A~A{B@Cv@iA"
+              },
+              "start_location" : {
+                "lat" : 1.3563775,
+                "lng" : 103.6960082
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 451
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 62
+          },
+          "end_address" : "Blk 271 CP, Singapore",
+          "end_location" : {
+            "lat" : 1.3501717,
+            "lng" : 103.7034934
+          },
+          "start_address" : "Westwood Sec Sch, Singapore",
+          "start_location" : {
+            "lat" : 1.3530444,
+            "lng" : 103.7007356
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 451
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 62
+              },
+              "end_location" : {
+                "lat" : 1.3501717,
+                "lng" : 103.7034934
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "oggGs`}wRh@w@BGrAwBd@s@h@u@JOVWZ]VWXS^Wb@YJGn@[PGh@U|@]"
+              },
+              "start_location" : {
+                "lat" : 1.3530444,
+                "lng" : 103.7007356
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.6 km",
+            "value" : 639
+          },
+          "duration" : {
+            "text" : "2 mins",
+            "value" : 93
+          },
+          "end_address" : "Blk 263, Singapore",
+          "end_location" : {
+            "lat" : 1.3452234,
+            "lng" : 103.7064004
+          },
+          "start_address" : "Blk 271 CP, Singapore",
+          "start_location" : {
+            "lat" : 1.3501717,
+            "lng" : 103.7034934
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 379
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 56
+              },
+              "end_location" : {
+                "lat" : 1.3471775,
+                "lng" : 103.7051174
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJln Bahar\u003c/b\u003e",
+              "polyline" : {
+                "points" : "qufGyq}wRZMzAq@j@WpDaBfCiAp@YdAg@"
+              },
+              "start_location" : {
+                "lat" : 1.3501717,
+                "lng" : 103.7034934
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 260
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 37
+              },
+              "end_location" : {
+                "lat" : 1.3452234,
+                "lng" : 103.7064004
+              },
+              "html_instructions" : "Continue onto \u003cb\u003eJln Boon Lay\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "{bfG_|}wRVK`@UVOTMRObAk@nC_Bv@c@"
+              },
+              "start_location" : {
+                "lat" : 1.3471775,
+                "lng" : 103.7051174
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 412
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 79
+          },
+          "end_address" : "Blk 691A, Singapore",
+          "end_location" : {
+            "lat" : 1.3426035,
+            "lng" : 103.7055124
+          },
+          "start_address" : "Blk 263, Singapore",
+          "start_location" : {
+            "lat" : 1.3452234,
+            "lng" : 103.7064004
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 149
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 25
+              },
+              "end_location" : {
+                "lat" : 1.3441209,
+                "lng" : 103.7071687
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJln Boon Lay\u003c/b\u003e toward \u003cb\u003eBoon Lay Ave\u003c/b\u003e",
+              "polyline" : {
+                "points" : "sveG_d~wRfBcAp@g@`Am@"
+              },
+              "start_location" : {
+                "lat" : 1.3452234,
+                "lng" : 103.7064004
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 263
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 54
+              },
+              "end_location" : {
+                "lat" : 1.3426035,
+                "lng" : 103.7055124
+              },
+              "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJurong West Central 1\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-right",
+              "polyline" : {
+                "points" : "woeGyh~wRLGNTh@x@n@jAZj@R^NRJNFHHJBDDB@BHDJHB@^JRD"
+              },
+              "start_location" : {
+                "lat" : 1.3441209,
+                "lng" : 103.7071687
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "1.6 km",
+            "value" : 1626
+          },
+          "duration" : {
+            "text" : "6 mins",
+            "value" : 373
+          },
+          "end_address" : "Boon Lay Int, Singapore",
+          "end_location" : {
+            "lat" : 1.3400559,
+            "lng" : 103.7049103
+          },
+          "start_address" : "Blk 691A, Singapore",
+          "start_location" : {
+            "lat" : 1.3426035,
+            "lng" : 103.7055124
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 252
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 43
+              },
+              "end_location" : {
+                "lat" : 1.3410514,
+                "lng" : 103.7041868
+              },
+              "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eJurong West Central 1\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ceeGc~}wRpBf@fAZRFHHHHHLHPDLDXBTFf@BT@DLPBBDBDBB@B@F@H@F@H@ZC`AIHA^o@JQOo@Qo@o@aCbAY`@Mn@zBQF"
+              },
+              "start_location" : {
+                "lat" : 1.3426035,
+                "lng" : 103.7055124
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        }
+      ],
+      "overview_polyline" : {
+        "points" : "ofeGc~}wRo@OUMY[]e@aBmC]e@W@]Ci@HaGnDsDhBkBfAiB|@{HfDmDxAkAb@u@XeAj@sB~AaAlA]d@wEvH{DnGuAtBq@nAc@h@eBxC{CtEgBtBa@ZO^CNE`@pB|Dd@v@N`@Tl@Nr@Hv@@dACfAKv@q@`CUj@I`@AXBt@Jr@L^bBvC`BnC`@n@D?F?FD?FCJGBGAEAk@b@m@z@Yv@Qj@Gr@?dADj@B\\Pl@N^jC~EjCpEt@nAtApBdAxAd@r@hAvARPjC|BbAz@dCxBNTFNDZB\\@j@Ct@KhAAhAHjAZz@p@bA~@x@lAj@b@H^Dj@?h@IdA_@\\M"
+      },
+      "summary" : "Jurong West Central 1 and Jln Boon Lay",
+      "warnings" : [],
+      "waypoint_order" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+    }
+  ],
+  "status" : "OK"
+}
