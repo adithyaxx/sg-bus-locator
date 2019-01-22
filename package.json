@@ -10,6 +10,9 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@mapbox/polyline": "^1.0.0",
+    "@turf/helpers": "^6.1.4",
+    "@turf/nearest-point-on-line": "^6.0.2",
     "dotenv": "~6.0.0",
     "got": "~9.2.2",
     "kcors": "~2.2.2",

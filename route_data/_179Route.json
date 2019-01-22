@@ -1,0 +1,1383 @@
+{
+  "geocoded_waypoints" : [
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJwalHipIP2jERfIc9Rzyb9fE",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJXxF-HJIP2jER2dvXx6oJ5w8",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJzRnjMpAP2jERg3vUJQgsTI0",
+      "types" : [
+        "establishment",
+        "point_of_interest",
+        "subway_station",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJnVvcZpAP2jERJugO-2Sp6gU",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJWTbRoJAP2jERi0qG1xsUTCQ",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJCUHAU5gP2jERmZlXtzoDFRY",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJQ5U2UJ8P2jERwyPFX05UCaI",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJu0KJu6EP2jER14KfgU1cBRg",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJJzFt_aAP2jERAg1v2AVyVig",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJFUMyk6AP2jERWlbVWKIpmf4",
+      "types" : [ "premise" ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ48Hp7woP2jER2v6nGFym93A",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJLbtKy3QP2jERV6px3xztzdA",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJ42U6LnQP2jERfdJcrVwdYDg",
+      "types" : [
+        "bus_station",
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    },
+    {
+      "geocoder_status" : "OK",
+      "place_id" : "ChIJW3rcF3YP2jERUxZbnl0i_bM",
+      "types" : [ "street_address" ]
+    }
+  ],
+  "routes" : [
+    {
+      "bounds" : {
+        "northeast" : {
+          "lat" : 1.3500202,
+          "lng" : 103.7029839
+        },
+        "southwest" : {
+          "lat" : 1.337463,
+          "lng" : 103.6783657
+        }
+      },
+      "copyrights" : "Map data ©2019 Google",
+      "legs" : [
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 301
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 58
+          },
+          "end_address" : "Blk 662A, Singapore",
+          "end_location" : {
+            "lat" : 1.3375374,
+            "lng" : 103.7003013
+          },
+          "start_address" : "Boon Lay Int, Singapore",
+          "start_location" : {
+            "lat" : 1.3377421,
+            "lng" : 103.7029839
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 301
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 58
+              },
+              "end_location" : {
+                "lat" : 1.3375374,
+                "lng" : 103.7003013
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 65\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "_tdGo{}wRo@kBcAXzAhFt@XbGuAPhAbAtEJZ"
+              },
+              "start_location" : {
+                "lat" : 1.3377421,
+                "lng" : 103.7029839
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 301
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 58
+          },
+          "end_address" : "Blk 658C, Singapore",
+          "end_location" : {
+            "lat" : 1.3375374,
+            "lng" : 103.7003013
+          },
+          "start_address" : "Blk 662A, Singapore",
+          "start_location" : {
+            "lat" : 1.3377421,
+            "lng" : 103.7029839
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 301
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 58
+              },
+              "end_location" : {
+                "lat" : 1.3375374,
+                "lng" : 103.7003013
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 65\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "{gdGsn}wR?@J^Hd@F`@@^BfA@PBdA?Z?lAAxA?h@"
+              },
+              "start_location" : {
+                "lat" : 1.3377421,
+                "lng" : 103.7029839
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 282
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 64
+          },
+          "end_address" : "31 Jurong West Street 63, Pioneer, Singapore 648310",
+          "end_location" : {
+            "lat" : 1.3374879,
+            "lng" : 103.6977663
+          },
+          "start_address" : "Blk 658C, Singapore",
+          "start_location" : {
+            "lat" : 1.3375374,
+            "lng" : 103.7003013
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 282
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 64
+              },
+              "end_location" : {
+                "lat" : 1.3374879,
+                "lng" : 103.6977663
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 61\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "sfdG{}|wR?F@`AFbC?fA@T?z@ApC"
+              },
+              "start_location" : {
+                "lat" : 1.3375374,
+                "lng" : 103.7003013
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 355
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 87
+          },
+          "end_address" : "Opp Blk 643, Singapore",
+          "end_location" : {
+            "lat" : 1.3387442,
+            "lng" : 103.695447
+          },
+          "start_address" : "31 Jurong West Street 63, Pioneer, Singapore 648310",
+          "start_location" : {
+            "lat" : 1.3374879,
+            "lng" : 103.6977663
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 191
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 53
+              },
+              "end_location" : {
+                "lat" : 1.3374826,
+                "lng" : 103.6960482
+              },
+              "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ifdGan|wR?z@?z@?N?nA?t@@hA"
+              },
+              "start_location" : {
+                "lat" : 1.3374879,
+                "lng" : 103.6977663
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 164
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 34
+              },
+              "end_location" : {
+                "lat" : 1.3387442,
+                "lng" : 103.695447
+              },
+              "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePioneer Rd North\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-right",
+              "polyline" : {
+                "points" : "gfdGic|wRBPc@N{EtA"
+              },
+              "start_location" : {
+                "lat" : 1.3374826,
+                "lng" : 103.6960482
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.2 km",
+            "value" : 229
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 29
+          },
+          "end_address" : "Jurong West Street 91, Blk 978, Singapore",
+          "end_location" : {
+            "lat" : 1.340514,
+            "lng" : 103.694415
+          },
+          "start_address" : "Opp Blk 643, Singapore",
+          "start_location" : {
+            "lat" : 1.3387442,
+            "lng" : 103.695447
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 229
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 29
+              },
+              "end_location" : {
+                "lat" : 1.340514,
+                "lng" : 103.694415
+              },
+              "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e toward \u003cb\u003eJurong West Ave 4\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "cndGq_|wRc@Lo@RSHUJc@RWLSJOJa@TaBdA"
+              },
+              "start_location" : {
+                "lat" : 1.3387442,
+                "lng" : 103.695447
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 517
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 77
+          },
+          "end_address" : "Blk 949, Singapore",
+          "end_location" : {
+            "lat" : 1.3441306,
+            "lng" : 103.6915012
+          },
+          "start_address" : "Jurong West Street 91, Blk 978, Singapore",
+          "start_location" : {
+            "lat" : 1.340514,
+            "lng" : 103.694415
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 517
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 77
+              },
+              "end_location" : {
+                "lat" : 1.3441306,
+                "lng" : 103.6915012
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e toward \u003cb\u003eJurong West Ave 5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "eydGcy{wRiCbBWPSP]VUTi@b@UPKHWRu@j@eBnAMHuB~Ae@`@QN[VQL"
+              },
+              "start_location" : {
+                "lat" : 1.340514,
+                "lng" : 103.694415
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.8 km",
+            "value" : 792
+          },
+          "duration" : {
+            "text" : "2 mins",
+            "value" : 108
+          },
+          "end_address" : "Hall 1, Singapore",
+          "end_location" : {
+            "lat" : 1.3456196,
+            "lng" : 103.6878308
+          },
+          "start_address" : "Blk 949, Singapore",
+          "start_location" : {
+            "lat" : 1.3441306,
+            "lng" : 103.6915012
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 377
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 49
+              },
+              "end_location" : {
+                "lat" : 1.346936,
+                "lng" : 103.689843
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e",
+              "polyline" : {
+                "points" : "yoeG{f{wRMH[TYRa@Tw@\\]Pi@RYH[LOFa@LSFcAZm@Pg@H]HEBCDEHAFALCZ"
+              },
+              "start_location" : {
+                "lat" : 1.3441306,
+                "lng" : 103.6915012
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 306
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 40
+              },
+              "end_location" : {
+                "lat" : 1.3448088,
+                "lng" : 103.6883855
+              },
+              "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eNanyang Cres\u003c/b\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "kafGo|zwRD@@?B@@BBB?DzACH?D?PBLBHBFBJFLFHHNNjBpBv@~@`@f@"
+              },
+              "start_location" : {
+                "lat" : 1.346936,
+                "lng" : 103.689843
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 109
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 19
+              },
+              "end_location" : {
+                "lat" : 1.3456196,
+                "lng" : 103.6878308
+              },
+              "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLien Ying Chow Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-right",
+              "polyline" : {
+                "points" : "ateGmszwRk@Za@RsA~@"
+              },
+              "start_location" : {
+                "lat" : 1.3448088,
+                "lng" : 103.6883855
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 291
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 40
+          },
+          "end_address" : "Opp Hall 6, Singapore",
+          "end_location" : {
+            "lat" : 1.347719,
+            "lng" : 103.6865445
+          },
+          "start_address" : "Hall 1, Singapore",
+          "start_location" : {
+            "lat" : 1.3456196,
+            "lng" : 103.6878308
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 291
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 40
+              },
+              "end_location" : {
+                "lat" : 1.347719,
+                "lng" : 103.6865445
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eLien Ying Chow Dr\u003c/b\u003e toward \u003cb\u003eNanyang Terrace\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "cyeG}ozwRwBxAeBzBKLYPKDSDU@Q@C?OAI?U?WAK?"
+              },
+              "start_location" : {
+                "lat" : 1.3456196,
+                "lng" : 103.6878308
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.2 km",
+            "value" : 198
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 32
+          },
+          "end_address" : "Hall 2, Singapore",
+          "end_location" : {
+            "lat" : 1.3489167,
+            "lng" : 103.6856259
+          },
+          "start_address" : "Opp Hall 6, Singapore",
+          "start_location" : {
+            "lat" : 1.347719,
+            "lng" : 103.6865445
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 198
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 32
+              },
+              "end_location" : {
+                "lat" : 1.3489167,
+                "lng" : 103.6856259
+              },
+              "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eLien Ying Chow Dr\u003c/b\u003e toward \u003cb\u003eNanyang Green\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "gffG{gzwRWAo@CG?I?O@I@A?MBUDKHQNKLEJEFCLI\\Gh@CLEL"
+              },
+              "start_location" : {
+                "lat" : 1.347719,
+                "lng" : 103.6865445
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 284
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 43
+          },
+          "end_address" : "81 Nanyang Dr, Singapore 637458",
+          "end_location" : {
+            "lat" : 1.3498454,
+            "lng" : 103.683678
+          },
+          "start_address" : "Hall 2, Singapore",
+          "start_location" : {
+            "lat" : 1.3489167,
+            "lng" : 103.6856259
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "91 m",
+                "value" : 91
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 16
+              },
+              "end_location" : {
+                "lat" : 1.3495004,
+                "lng" : 103.6850898
+              },
+              "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eLien Ying Chow Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "wmfGebzwRAFEJILGHIHONSPKFKFSB"
+              },
+              "start_location" : {
+                "lat" : 1.3489167,
+                "lng" : 103.6856259
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 193
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 27
+              },
+              "end_location" : {
+                "lat" : 1.3498454,
+                "lng" : 103.683678
+              },
+              "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "kqfGy~ywR@B@B@B?B?@ADADIDG@C?C?AAEASVSXGJKTERCPAL?L@P@NBJBLDHNZ"
+              },
+              "start_location" : {
+                "lat" : 1.3495004,
+                "lng" : 103.6850898
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 394
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 67
+          },
+          "end_address" : "Lee Wee Nam Lib, Singapore",
+          "end_location" : {
+            "lat" : 1.3481058,
+            "lng" : 103.6806692
+          },
+          "start_address" : "81 Nanyang Dr, Singapore 637458",
+          "start_location" : {
+            "lat" : 1.3498454,
+            "lng" : 103.683678
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 394
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 67
+              },
+              "end_location" : {
+                "lat" : 1.3481058,
+                "lng" : 103.6806692
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "qsfG_vywRBDP\\DHbAvBdAxB^j@@?@?@?@?@?@?@@@??@@?@@?@@??@@??@?@@??@?@?@?@?@?@A??@?@A??@Pj@j@lAHRTd@JRTd@"
+              },
+              "start_location" : {
+                "lat" : 1.3498454,
+                "lng" : 103.683678
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 394
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 75
+          },
+          "end_address" : "Sch Of CEE, Singapore",
+          "end_location" : {
+            "lat" : 1.3461343,
+            "lng" : 103.6784489
+          },
+          "start_address" : "Lee Wee Nam Lib, Singapore",
+          "start_location" : {
+            "lat" : 1.3481058,
+            "lng" : 103.6806692
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 283
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 56
+              },
+              "end_location" : {
+                "lat" : 1.3471234,
+                "lng" : 103.6783657
+              },
+              "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "uhfGecywRJTl@nAj@fALVHPXd@JXFNBHBJ@JBLBh@FhA"
+              },
+              "start_location" : {
+                "lat" : 1.3481058,
+                "lng" : 103.6806692
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 111
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 19
+              },
+              "end_location" : {
+                "lat" : 1.3461343,
+                "lng" : 103.6784489
+              },
+              "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-left",
+              "polyline" : {
+                "points" : "obfGytxwRZ?b@?J?F?DAF?NCVEJ?HAL?VA"
+              },
+              "start_location" : {
+                "lat" : 1.3471234,
+                "lng" : 103.6783657
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 459
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 73
+          },
+          "end_address" : "Sch Of Comm And Info, Singapore",
+          "end_location" : {
+            "lat" : 1.3421179,
+            "lng" : 103.6791378
+          },
+          "start_address" : "Sch Of CEE, Singapore",
+          "start_location" : {
+            "lat" : 1.3461343,
+            "lng" : 103.6784489
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 459
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 73
+              },
+              "end_location" : {
+                "lat" : 1.3421179,
+                "lng" : 103.6791378
+              },
+              "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "i|eGiuxwRR?~C@RARAVCJCb@K`A]LEnAa@TGNCLAdDQf@Et@Cd@C"
+              },
+              "start_location" : {
+                "lat" : 1.3461343,
+                "lng" : 103.6784489
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 498
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 61
+          },
+          "end_address" : "2a Nanyang Link, Singapore",
+          "end_location" : {
+            "lat" : 1.340008,
+            "lng" : 103.6819005
+          },
+          "start_address" : "Sch Of Comm And Info, Singapore",
+          "start_location" : {
+            "lat" : 1.3421179,
+            "lng" : 103.6791378
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 498
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 61
+              },
+              "end_location" : {
+                "lat" : 1.340008,
+                "lng" : 103.6819005
+              },
+              "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e toward \u003cb\u003eNanyang Link\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "gceGsyxwRB?TAvABd@@bADP?RCNETKX[rA{AJMRc@DSDg@?[CiCCo@Gk@Gc@CO"
+              },
+              "start_location" : {
+                "lat" : 1.3421179,
+                "lng" : 103.6791378
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.5 km",
+            "value" : 498
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 61
+          },
+          "end_address" : "Hall 4, Singapore",
+          "end_location" : {
+            "lat" : 1.340008,
+            "lng" : 103.6819005
+          },
+          "start_address" : "2a Nanyang Link, Singapore",
+          "start_location" : {
+            "lat" : 1.3421179,
+            "lng" : 103.6791378
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 498
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 61
+              },
+              "end_location" : {
+                "lat" : 1.340008,
+                "lng" : 103.6819005
+              },
+              "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e toward \u003cb\u003eNanyang Link\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "avdG{jywRSu@Um@KYO]O[S]U_@Wa@_@m@aBaCwLsP}AiB"
+              },
+              "start_location" : {
+                "lat" : 1.3421179,
+                "lng" : 103.6791378
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.9 km",
+            "value" : 884
+          },
+          "duration" : {
+            "text" : "2 mins",
+            "value" : 114
+          },
+          "end_address" : "Blk 840, Singapore",
+          "end_location" : {
+            "lat" : 1.3439706,
+            "lng" : 103.6917858
+          },
+          "start_address" : "8 Nanyang Dr, Singapore 637719",
+          "start_location" : {
+            "lat" : 1.3440838,
+            "lng" : 103.6875428
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 124
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 16
+              },
+              "end_location" : {
+                "lat" : 1.3448088,
+                "lng" : 103.6883855
+              },
+              "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eNanyang Dr\u003c/b\u003e toward \u003cb\u003eLien Ying Chow Dr\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ooeGcnzwRIMUYSWSWYYQQ]e@"
+              },
+              "start_location" : {
+                "lat" : 1.3440838,
+                "lng" : 103.6875428
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 290
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 36
+              },
+              "end_location" : {
+                "lat" : 1.3468452,
+                "lng" : 103.6897456
+              },
+              "html_instructions" : "Continue onto \u003cb\u003eNanyang Cres\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ateGmszwRa@g@w@_AkBqBOOIIMGKGGCICMCQCE?I?{AB"
+              },
+              "start_location" : {
+                "lat" : 1.3448088,
+                "lng" : 103.6883855
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.5 km",
+                "value" : 470
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 62
+              },
+              "end_location" : {
+                "lat" : 1.3439706,
+                "lng" : 103.6917858
+              },
+              "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003ePioneer Rd North\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "roundabout-left",
+              "polyline" : {
+                "points" : "y`fG}{zwR?@?@?@?@A??@?@A??@A??@A?A@A??@A?A?A?A?A?A?A??AA?A??AA??AA??AAA?AA??A?A?A?A@C@C@ABCCe@AQ@G?A@EBGDEBCDC@A@?NGl@Kv@Q|@WrAe@~@_@j@Uh@WRIPKRKTOdAu@PO"
+              },
+              "start_location" : {
+                "lat" : 1.3468452,
+                "lng" : 103.6897456
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 424
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 67
+          },
+          "end_address" : "Blk 705, Singapore",
+          "end_location" : {
+            "lat" : 1.341011,
+            "lng" : 103.6941855
+          },
+          "start_address" : "Blk 840, Singapore",
+          "start_location" : {
+            "lat" : 1.3439706,
+            "lng" : 103.6917858
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 424
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 67
+              },
+              "end_location" : {
+                "lat" : 1.341011,
+                "lng" : 103.6941855
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e toward \u003cb\u003eJurong West Street 91\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "yneGuh{wRf@_@vBaBNKJINMrA_Av@i@ZSJKb@_@lBaB|@m@"
+              },
+              "start_location" : {
+                "lat" : 1.3439706,
+                "lng" : 103.6917858
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.2 km",
+            "value" : 246
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 27
+          },
+          "end_address" : "Blk 643, Singapore",
+          "end_location" : {
+            "lat" : 1.339169,
+            "lng" : 103.6954002
+          },
+          "start_address" : "Blk 705, Singapore",
+          "start_location" : {
+            "lat" : 1.341011,
+            "lng" : 103.6941855
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 246
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 27
+              },
+              "end_location" : {
+                "lat" : 1.339169,
+                "lng" : 103.6954002
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e toward \u003cb\u003eJurong West Ave 4\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "i|dGuw{wRlAy@PKPM\\WhAo@PIb@YzAo@BA"
+              },
+              "start_location" : {
+                "lat" : 1.341011,
+                "lng" : 103.6941855
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 323
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 65
+          },
+          "end_address" : "31 Jurong West Street 63, Pioneer, Singapore 648310",
+          "end_location" : {
+            "lat" : 1.3377009,
+            "lng" : 103.6972897
+          },
+          "start_address" : "Blk 643, Singapore",
+          "start_location" : {
+            "lat" : 1.339169,
+            "lng" : 103.6954002
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.2 km",
+                "value" : 179
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 26
+              },
+              "end_location" : {
+                "lat" : 1.3376738,
+                "lng" : 103.6959932
+              },
+              "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003ePioneer Rd North\u003c/b\u003e toward \u003cb\u003eJurong West Street 63\u003c/b\u003e",
+              "polyline" : {
+                "points" : "ypdGg_|wRj@S`@MTIfEiA"
+              },
+              "start_location" : {
+                "lat" : 1.339169,
+                "lng" : 103.6954002
+              },
+              "travel_mode" : "DRIVING"
+            },
+            {
+              "distance" : {
+                "text" : "0.1 km",
+                "value" : 144
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 39
+              },
+              "end_location" : {
+                "lat" : 1.3377009,
+                "lng" : 103.6972897
+              },
+              "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJurong West Street 63\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "maneuver" : "turn-left",
+              "polyline" : {
+                "points" : "mgdG}b|wRGgA@{C?_@"
+              },
+              "start_location" : {
+                "lat" : 1.3376738,
+                "lng" : 103.6959932
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.3 km",
+            "value" : 302
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 69
+          },
+          "end_address" : "Blk 608, Singapore",
+          "end_location" : {
+            "lat" : 1.3376741,
+            "lng" : 103.7000039
+          },
+          "start_address" : "31 Jurong West Street 63, Pioneer, Singapore 648310",
+          "start_location" : {
+            "lat" : 1.3377009,
+            "lng" : 103.6972897
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.3 km",
+                "value" : 302
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 69
+              },
+              "end_location" : {
+                "lat" : 1.3376741,
+                "lng" : 103.7000039
+              },
+              "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 61\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "sgdGak|wR?_C@[?s@?sA?U?K@gA@oC"
+              },
+              "start_location" : {
+                "lat" : 1.3377009,
+                "lng" : 103.6972897
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 365
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 65
+          },
+          "end_address" : "Blk 664C, Singapore",
+          "end_location" : {
+            "lat" : 1.3379066,
+            "lng" : 103.7032593
+          },
+          "start_address" : "Blk 608, Singapore",
+          "start_location" : {
+            "lat" : 1.3376741,
+            "lng" : 103.7000039
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 365
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 65
+              },
+              "end_location" : {
+                "lat" : 1.3379066,
+                "lng" : 103.7032593
+              },
+              "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 65\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "mgdG_||wR?eC@eCAICsDA[AUEa@Mq@Mi@EQ"
+              },
+              "start_location" : {
+                "lat" : 1.3376741,
+                "lng" : 103.7000039
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        },
+        {
+          "distance" : {
+            "text" : "0.4 km",
+            "value" : 365
+          },
+          "duration" : {
+            "text" : "1 min",
+            "value" : 65
+          },
+          "end_address" : "Boon Lay Int, Singapore",
+          "end_location" : {
+            "lat" : 1.3379066,
+            "lng" : 103.7032593
+          },
+          "start_address" : "Blk 664C, Singapore",
+          "start_location" : {
+            "lat" : 1.3376741,
+            "lng" : 103.7000039
+          },
+          "steps" : [
+            {
+              "distance" : {
+                "text" : "0.4 km",
+                "value" : 365
+              },
+              "duration" : {
+                "text" : "1 min",
+                "value" : 65
+              },
+              "end_location" : {
+                "lat" : 1.3379066,
+                "lng" : 103.7032593
+              },
+              "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJurong West Street 63\u003c/b\u003e toward \u003cb\u003eJurong West Street 65\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+              "polyline" : {
+                "points" : "}hdGmp}wRc@gBYcAQSOKOEOEaB`@aAP_@Hq@Fo@}Be@eB[iAxAe@v@|B??KD"
+              },
+              "start_location" : {
+                "lat" : 1.3376741,
+                "lng" : 103.7000039
+              },
+              "travel_mode" : "DRIVING"
+            }
+          ],
+          "traffic_speed_entry" : [],
+          "via_waypoint" : []
+        }
+      ],
+      "overview_polyline" : {
+        "points" : "{gdGsn}wRJ`@PfAJ~D?hBAbC@hAFjE?~G?pEDzA_GdBsA`@i@T_Bx@eHpEqBbBoBzAsBxA{C`CmA~@u@h@yAr@gAd@u@ViCx@uAZc@LINCTCZD@D@DF?DzACN?^Fj@VXXjBpBv@~@`@f@k@Za@RsA~@wBxAeBzBe@^_@Jg@Bs@AkBGk@BOBUDKH]\\KRMj@Kv@GTOXu@t@WNSB@BBF?DCJQFOCg@p@S`@Id@AZB`@FXj@hAhA`CdAxB^j@@?@?B?D@HH@LCD|@xB`ArBrBdEb@v@Rh@Ln@JrB~@?`@A|@Kx@ArD?j@En@OnAc@dBi@\\ElEWzAGXA|BDtADb@ITKX[~AiBRc@DSDcAGyDOoACO"
+      },
+      "summary" : "Jurong West Street 63",
+      "warnings" : [],
+      "waypoint_order" : [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ]
+    }
+  ],
+  "status" : "OK"
+}
