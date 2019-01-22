@@ -101,7 +101,7 @@ app.use(async (ctx) => {
 
         if (busNo === "179")
             busStopCodes = _179BusStopCodes;
-        else if (busNo === "179a")
+        else if (busNo === "179A")
             busStopCodes = _179aBusStopCodes;
         else if (busNo === "199")
             busStopCodes = _199BusStopCodes;
