@@ -41,6 +41,9 @@ Parameter | Value
 ## Limitations
 The API only provides information for 179, 179A and 199 as of now
 
+## Contributors
+- [Wei Cong](https://github.com/weicong96)
+
 ## Credits
 * Based on [this project](https://github.com/cheeaun/arrivelah)
 * Positioning data is fetched from [LTA DataMall APIs](https://www.mytransport.sg/content/mytransport/home/dataMall.html)
