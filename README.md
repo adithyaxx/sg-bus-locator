@@ -13,7 +13,7 @@ https://sg-bus-locator.appspot.com/ `?busNo=179`
 
 Parameter | Value
 --------- | -----
-`busNo` | `179` `179a` `199`
+`busNo` | `179` `179A` `199`
 
 ### Response
 ```
