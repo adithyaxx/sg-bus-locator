@@ -9,7 +9,7 @@ const {
 const _ = require('underscore');
 const nearest = require('@turf/nearest-point-on-line').default;
 const bearingPoint = require('@turf/bearing').default;
-const bufferSize = 3;
+const bufferSize = 2;
 module.exports = (location, stopRoute, index)=>{
     location = [parseFloat(location.lng), parseFloat(location.lat)]
     var checkStopRoute = stopRoute.slice(0,index);
@@ -50,7 +50,11 @@ module.exports = (location, stopRoute, index)=>{
         nextPointOnLine = JSON.parse(JSON.stringify(nextPointOnLine))
     }
     var bearing = bearingPoint(point(location),(nextPointOnLine));
+    if(bearing < 0){
+        bearing = 360 + bearing;
+    }
+    bearing = Math.floor(bearing);
     //for debug
-    //console.log(JSON.stringify([nextPointOnLine, location])+',')
+    console.log(JSON.stringify([nextPointOnLine, location])+',')
     return bearing;
 }
