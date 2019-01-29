@@ -2,8 +2,9 @@ let _und = require("underscore");
 const Koa = require('koa');
 const cors = require('kcors');
 const got = require('got');
-const cache = require('lru-cache')({
-    maxAge: 1000 * 15 // 15 seconds
+const LRU = require('lru-cache');
+const cache = new LRU({
+  maxAge: 1000 * 5 // 5 seconds
 });
 //Routes info, in memory map.
 const parser = require('./parser');

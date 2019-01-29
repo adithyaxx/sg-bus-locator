@@ -13,7 +13,7 @@ https://sg-bus-locator.appspot.com/ `?busNo=179`
 
 Parameter | Value
 --------- | -----
-`busNo` | `179` `179a` `199`
+`busNo` | `179` `179A` `199`
 
 ### Response
 ```
@@ -40,6 +40,9 @@ Parameter | Value
 
 ## Limitations
 The API only provides information for 179, 179A and 199 as of now
+
+## Contributors
+- [Wei Cong](https://github.com/weicong96)
 
 ## Credits
 * Based on [this project](https://github.com/cheeaun/arrivelah)
