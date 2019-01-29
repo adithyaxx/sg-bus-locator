@@ -15,9 +15,8 @@ module.exports = (location, stopRoute, index)=>{
     var checkStopRoute = stopRoute.slice(0,index);
     
     /**
-     * Find which route in between bus stops is nearest to given location
-     * 1) Calculate nearest distance pairings for given bus and next bus
-     * 2) Sort by distance
+     * Compares given location to all N routes given
+     * Sorts by distance and the first line is the point "snapped" to route's line
      */
     var nearestLines = _.map(checkStopRoute, (route, routeIndex)=>{
         if(route.length == 1){
@@ -37,10 +36,11 @@ module.exports = (location, stopRoute, index)=>{
     nearestLines = _.sortBy(nearestLines, (d)=> d.properties.dist);
     var nearestLine = nearestLines[0];
     var nextPointOnLine = checkStopRoute[nearestLine.index][nearestLine.properties.index + bufferSize];
-    //if bus is at last point, get next stop's first point
-    //console.log('next point set : ', nextPointOnLine)
     if(!nextPointOnLine){
-        //if nextpointonline is not avaliable, take first point on next line
+        /*
+            if nextPoint is not avaliable, which happens if datamall gives a location close to a bus stop,
+            get first point on next stop.
+         */
         if(!checkStopRoute[nearestLine.index+1] || !checkStopRoute[nearestLine.index+1][0]){
             return 0;
         }else{
@@ -49,12 +49,18 @@ module.exports = (location, stopRoute, index)=>{
     }else{
         nextPointOnLine = JSON.parse(JSON.stringify(nextPointOnLine))
     }
-    var bearing = bearingPoint(point(location),(nextPointOnLine));
+    /**
+     * Changes: As Datamall API does not always return location of points on the route, 
+     * use nearestpoint on the line to next point on the line instead of the given location
+     */
+    
+    var bearing = bearingPoint(nearestLine.geometry,(nextPointOnLine));
     if(bearing < 0){
         bearing = 360 + bearing;
     }
     bearing = Math.floor(bearing);
     //for debug
-    //console.log(JSON.stringify([nextPointOnLine, location])+',')
+    //console.log(JSON.stringify([nextPointOnLine, nearestLine.geometry.coordinates])+',')
+    //console.log(bearing);
     return bearing;
 }
